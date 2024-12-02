@@ -51,9 +51,9 @@ I'm a passionate **MERN Stack Developer** with expertise in crafting dynamic, re
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-tayyab&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td align="center">
-      <h4>🔥 GitHub Streaks</h4>
-      <img src="https://streak-stats.demolab.com/?user=ab-tayyab&theme=radical&hide_border=true" alt="GitHub Streaks" />
-    </td>
+      <h4> 🔥 GitHub Stats</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</td>
   </tr>
 </table>
 
